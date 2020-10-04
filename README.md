@@ -11,5 +11,5 @@ Neuralet is a set of docker containers that are packaged to run directly on the 
 For documentation and more details view [Neuralet's main github repo](https://github.com/neuralet/neuralet).
 
 ### License ###
-This project is licensed under Apatche V2 but each model may have its own license. Please refer to the License file for each model for more details. If you have any questions, please reach out to us at hello@neuralet.com
+This project is licensed under Apache-2.0 but each model may have its own license. Please refer to the License file for each model for more details. If you have any questions, please reach out to us at hello@neuralet.com
 
