@@ -9,3 +9,7 @@ We currently provide models for [Coral Dev Board](https://coral.ai/products/dev-
 Neuralet is a set of docker containers that are packaged to run directly on the device. A separate docker container is built for each model on each device to make it very simple to get started with any model on any device.
 
 For documentation and more details view [Neuralet's main github repo](https://github.com/neuralet/neuralet).
+
+### License ###
+This project is licensed under Apatche V2 but each model may have its own license. Please refer to the License file for each model for more details. If you have any questions, please reach out to us at hello@neuralet.com
+
